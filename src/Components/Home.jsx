@@ -33,7 +33,7 @@ function Home() {
 
   const handleLinkClick = () => {
     window.open(
-      "https://drive.google.com/file/d/1aeFoIVySPuAJQO4dKBCaIw2qTyWep8RI/view?usp=sharing",
+      "https://drive.google.com/file/d/1WfuwyVsA8xxH6YTZ77ZMOgChmWLf304D/view?usp=sharing",
       "_blank"
     );
   };
