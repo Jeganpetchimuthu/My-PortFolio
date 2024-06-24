@@ -1,0 +1,122 @@
+.contactMe {
+  position: relative;
+  top: 5px;
+  width: 119%;
+  background-color: rgb(249, 248, 249);
+  background: transparent;
+  backdrop-filter: blur(10px);
+  height: 88vh;
+  margin-left: 10px;
+}
+.name {
+  color: white;
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+}
+.name:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.lname {
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+  color: white;
+}
+.lname:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.email {
+  color: white;
+
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+}
+.email:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.phonenum {
+  color: white;
+
+  border: 1px solid gray;
+  width: 350px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+}
+.phonenum:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.sms {
+  color: black;
+
+  border: 1px solid grey;
+  width: 350px;
+  height: 190px;
+  outline: none;
+  border-radius: 5px;
+}
+.sms:hover {
+  box-shadow: 3px 3px 7px rgb(250, 169, 20);
+}
+.FormMgs {
+  position: relative;
+  top: 50px;
+  margin-left: 900px;
+  margin-bottom: -150px;
+  overflow: hidden;
+  background: transparent;
+  backdrop-filter: blur(10px);
+}
+.sendbtn {
+  width: 90px;
+  height: 45px;
+  color: rgb(244, 240, 240);
+  background-color: blueviolet;
+  border: 1px solid gray;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: larger;
+}
+.sendbtn:hover {
+  color: white;
+
+  box-shadow: 3px 3px 10px rgb(250, 169, 20);
+}
+.myself {
+  color: gray;
+  position: absolute;
+  margin-top: 180px;
+  margin-left: 70px;
+}
+.Phonenumber {
+  position: relative;
+}
+
+.footerContainer {
+  position: relative;
+  margin-left: 10px;
+  background-color: rgb(164, 157, 157);
+  border: 1px solid rgb(163, 161, 161);
+  height: 30vh;
+  border-radius: 5px;
+}
+.footer-wrap {
+  margin-left: 550px;
+  color: black;
+  margin-top: 60px;
+}
+.footer-copyright {
+  color: black;
+  margin-left: 650px;
+}
+.messageContainer {
+  margin-bottom: 250px;
+}

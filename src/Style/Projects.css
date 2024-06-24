@@ -1,0 +1,292 @@
+.projects-wraps {
+  position: relative;
+  top: -10px;
+  margin-left: 5px;
+  background-color: rgb(67, 68, 69);
+  width: 120%;
+  height: 700px;
+  background: transparent;
+  backdrop-filter: blur(10px);
+}
+.project-container {
+  position: relative;
+  color: rgb(83, 81, 81);
+  margin-left: 650px;
+  top: 30px;
+  font-weight: 400;
+  font-size: xx-large;
+}
+.youtubeApp {
+  position: relative;
+  border: 1px solid white;
+  width: 400px;
+  height: 500px;
+  top: 80px;
+  left: 80px;
+  border-radius: 5px;
+  background-color: rgb(38, 51, 65);
+  transition: transform 0.3s ease;
+}
+.youtubeApp:hover {
+  transform: scale(1.03);
+}
+.pizzaDeliveryApp:hover {
+  transform: scale(1.03);
+}
+.pinterestApp:hover {
+  transform: scale(1.03);
+}
+.pizzaDeliveryApp {
+  position: relative;
+  border: 1px solid white;
+  width: 400px;
+  height: 500px;
+  top: 80px;
+  left: 150px;
+  border-radius: 5px;
+  background-color: rgb(38, 51, 65);
+  transition: transform 0.3s ease;
+}
+.pinterestApp {
+  position: relative;
+  border: 1px solid white;
+  width: 400px;
+  height: 500px;
+  top: 80px;
+  left: 250px;
+  border-radius: 5px;
+  background-color: rgb(38, 51, 65);
+  transition: transform 0.3s ease;
+}
+.project-flex {
+  display: flex;
+  gap: 50px;
+}
+.project-HTML {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 95px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-CSS {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 105px;
+  font-weight: 600;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
+.project-Js {
+  position: relative;
+  font-weight: 600;
+  top: 40px;
+  left: 150px;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  border: 1px solid gray;
+  padding: 10px 10px;
+  border-radius: 25px;
+}
+.youtubeimg1 {
+  position: relative;
+  top: 10px;
+  width: 400px;
+  height: 200px;
+}
+.youtubeimg2 {
+  position: relative;
+  top: -65px;
+  width: 400px;
+  height: 200px;
+}
+.youtubeimg3 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+  height: 200px;
+}
+
+.youtubetitle {
+  color: gray;
+  margin-left: 130px;
+  font-weight: 500;
+}
+.pinteresttitle {
+  margin-top: -50px;
+  color: gray;
+  margin-left: 130px;
+  font-weight: 500;
+}
+.pinterestTitle {
+  margin-top: 20px;
+  color: gray;
+  margin-left: 130px;
+  font-weight: 500;
+}
+.aboutYoutube {
+  color: rgb(145, 178, 227);
+  margin-left: 20px;
+
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.projectgit {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease;
+  border-radius: 15px;
+}
+.projectgit:hover {
+  background: orange;
+  transform: scale(1.3);
+}
+.projectnetlify {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease;
+  margin-left: 20px;
+  border-radius: 15px;
+}
+.projectnetlify:hover {
+  background: orange;
+  transform: scale(1.3);
+}
+.deployed {
+  position: relative;
+  top: 40px;
+  left: 20px;
+}
+.deployed2 {
+  position: relative;
+  top: 50px;
+  left: 20px;
+}
+.deployed3 {
+  position: relative;
+  top: 50px;
+  left: 20px;
+}
+.project-react {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 20px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-material {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 25px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-node {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 30px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-mongodb {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 25px;
+  top: 25px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-nodemailer {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 20px;
+  height: 40px;
+  left: 30px;
+  top: 25px;
+  border: 1px solid gray;
+  padding: 10px 10px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.project-express {
+  position: relative;
+  color: black;
+  background-color: gray;
+  width: 100px;
+  height: 40px;
+  left: 20px;
+  top: 25px;
+  border: 1px solid gray;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-weight: 600;
+}
+.projectgitback {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  transition: transform 0.3s ease;
+  border-radius: 15px;
+  margin-left: 20px;
+}
+.projectgitback:hover {
+  background: orange;
+  transform: scale(1.3);
+}
+
+.footerContainer {
+  position: relative;
+  margin-left: 1px;
+  background-color: rgb(69, 66, 66);
+  border: 1px solid rgb(163, 161, 161);
+  height: 30vh;
+  border-radius: 5px;
+}
+.footer-wrap {
+  margin-left: 550px;
+  color: black;
+  margin-top: 60px;
+}
+.footer-copyright {
+  color: black;
+  margin-left: 650px;
+}
+.Project-ContentPage {
+  margin-bottom: 100px;
+}
